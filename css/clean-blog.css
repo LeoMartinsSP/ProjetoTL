@@ -177,10 +177,10 @@ header.masthead {
   background-color: #868e96;
   background-attachment: scroll;
   position: relative;
-  -webkit-background-size: 100% 50%;
-  -moz-background-size: 100% 50%;
-  -o-background-size: 100% 50%;
-  background-size: 100% 50%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 header.masthead .overlay {
